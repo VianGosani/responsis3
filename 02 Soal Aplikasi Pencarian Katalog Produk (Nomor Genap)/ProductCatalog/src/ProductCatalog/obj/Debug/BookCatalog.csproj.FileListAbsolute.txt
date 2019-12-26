@@ -1,0 +1,13 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\bin\Debug\BookCatalog.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\bin\Debug\BookCatalog.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\bin\Debug\BookCatalog.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\bin\Debug\RestSharp.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\bin\Debug\RestSharp.xml
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.csproj.CopyComplete
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\BookCatalog\src\BookCatalog\obj\Debug\BookCatalog.View.FrmPencarian.resources
